@@ -17,13 +17,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    animation: animateBg 5s linear infinite;
 }
 
-@keyframes animateBg {
-    100%{
-        filter: hue-rotate(360deg);
-    }
+
     
 }
 .container {
